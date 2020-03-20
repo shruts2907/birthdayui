@@ -4,9 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+Clone the repo and run npm install in directory wher package.json is located
+
 ### `npm start`
 
-Runs the app in the development mode.<br />
+This command will run the app 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
